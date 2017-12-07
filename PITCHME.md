@@ -49,9 +49,11 @@ Machine learning is how machines escape Plato's cave
 
 ---
 ## ROI calculator
-- **We need:**
+- **We'd like:**
   - An accurate estimate of back-angle
   - A squat estimator that works independently of lift-windows.
+
+![sag vs back](assets/sag_vs_back.png)
 
 ---
 ## Other stuff
