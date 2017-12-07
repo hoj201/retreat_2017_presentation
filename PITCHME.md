@@ -1,13 +1,13 @@
 # Contents
-- Data-science in a nutshell
+- ML in a nutshell
 - Where are we?
 - Where should we go?
 - How do we get there?
 ---
-# Data-science in a nutshell
-We have data that we want labelled.
-![plato](https://upload.wikimedia.org/wikipedia/commons/b/b4/Platon.jpg){ width: 30vw; }
-![cd](assets/datascience_cd.jpg){ width: 30vw; }
+# ML in a nutshell
+Machine learning allows machines to escape Plato's cave
+![cd](assets/datascience_cd.jpg)
+
 ---
 # Where are we?
  - We can semi-reliably detect bad lifts in a warehouse environment if it's worn on the correct side.
