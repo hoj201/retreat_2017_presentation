@@ -6,8 +6,8 @@
 ---
 # Data-science in a nutshell
 We have data that we want labelled.
-![plato](https://upload.wikimedia.org/wikipedia/commons/b/b4/Platon.jpg)
-![cd](assets/datascience_cd.jpg)
+![plato](https://upload.wikimedia.org/wikipedia/commons/b/b4/Platon.jpg){ width: 30vw; }
+![cd](assets/datascience_cd.jpg){ width: 30vw; }
 ---
 # Where are we?
  - We can semi-reliably detect bad lifts in a warehouse environment if it's worn on the correct side.
