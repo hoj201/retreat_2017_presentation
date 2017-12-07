@@ -53,7 +53,7 @@ Machine learning is how machines escape Plato's cave
   - An accurate estimate of back-angle
   - A squat estimator that works independently of lift-windows.
 
-![sag vs back](assets/sag_vs_back.png)
+![sag vs back](assets/sag_vs_back.jpg)
 
 ---
 ## Other stuff
