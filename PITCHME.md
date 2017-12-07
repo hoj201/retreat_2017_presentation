@@ -6,7 +6,7 @@
 ---
 # Data-science in a nutshell
 We have data that we want labelled.
-![cd](https://raw.githubusercontent.com/hoj201/retreat_2017_presentation/master/assets/datascience_cd.svg)
+![cd](assets/datascience_cd.png)
 ![plato](https://upload.wikimedia.org/wikipedia/commons/b/b4/Platon.jpg)
 ---
 # Where are we?
