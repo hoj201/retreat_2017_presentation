@@ -1,9 +1,14 @@
 # Contents
+- Data-science in a nutshell
 - Where are we?
 - Where should we go?
 - How do we get there?
 ---
-
+# Data-science in a nutshell
+We have data that we want labelled.
+![cd](assets/datascience_cd.svg)
+![plato](https://upload.wikimedia.org/wikipedia/commons/b/b4/Platon.jpg)
+---
 # Where are we?
  - We can semi-reliably detect bad lifts in a warehouse environment if it's worn on the correct side.
  - We can detect walking pretty well.
@@ -14,7 +19,7 @@
 - We should know our ground truth
 - Step counter
 - ROI calculator
-- We should get rid of Our caveates (e.g. "semi-reliable", "but only if ..", "correct side")
+- We should get rid of Our caveats (e.g. "semi-reliable", "but only if ..", "correct side")
 ---
 
 # Ground truth

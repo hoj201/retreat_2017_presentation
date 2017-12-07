@@ -52,7 +52,7 @@ It's hard to plan ahead until we get a ground truth (which is how things will be
 
 - Anomaly detection
 - location detection
-- More accurate back-angle calculations
+- More accurate back-angle calculations (it never buzzes for matt)
 - A more useful coruscant-report
 - replace kinetic-live with plotly
 - a walk detector with less lag
