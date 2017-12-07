@@ -5,7 +5,8 @@
 - How do we get there?
 ---
 # ML in a nutshell
-Machine learning allows machines to escape Plato's cave
+Machine learning is how machines escape Plato's cave
+
 ![cd](assets/datascience_cd.jpg)
 
 ---
