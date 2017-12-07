@@ -6,8 +6,10 @@
 ---
 # Data-science in a nutshell
 We have data that we want labelled.
-![cd](assets/datascience_cd.jpg)
 ![plato](https://upload.wikimedia.org/wikipedia/commons/b/b4/Platon.jpg)
+
+
+![cd](assets/datascience_cd.jpg)
 ---
 # Where are we?
  - We can semi-reliably detect bad lifts in a warehouse environment if it's worn on the correct side.
@@ -23,43 +25,41 @@ We have data that we want labelled.
 ---
 
 # Ground truth
-We need:
-- a quick way to annotate data
-- data to annotate
-
-Therefore:
+- **We need:**
+  - a quick way to annotate data
+  - data to annotate
+- **Solution:**
   - For annotation we will probably use [scale-api](https://www.scaleapi.com/)
   - For back-angle annotation we might use some [computer vision](https://www.youtube.com/watch?v=tKfkGttx0qs)
   - Data will be gathered by myself and/or by an intern.
 
 ---
 ## Side detection
-To try a quick-dirty side detector, we can rock-and-roll today.
-
-To do it well we need:
-- better walking annotation
-- Videos annotated with the location of the device.
+- for a quick-dirty side detector, we can rock-and-roll today.
+  - I'd give this one sprint, and then table it if things don't work out.
+- To do it well we need:
+  - better walking annotation
+  - Videos annotated with the location of the device.
 
 ---
 ## Step counter
-We need:
-- data of walking, with known step counts. (we have least 6-ish videos)
-- to test the existing algorithm
-- to write a new algorithm if the existing one doesn't cut it.
+- **We need:**
+  - data of walking, with known step counts. (we have a few videos)
+  - to test the existing algorithm
+  - to write a new algorithm if the existing one doesn't cut it.
 
 ---
 ## ROI calculator
-We need:
- - An accurate estimate of back-angle
- - A squat estimator that works independently of lift-windows.
+- **We need:**
+  - An accurate estimate of back-angle
+  - A squat estimator that works independently of lift-windows.
 
 ---
 ## Other stuff
-It's hard to plan ahead until we get a ground truth (which is how things will be prioritized):
-
+It's hard to plan ahead until we get a ground truth:
 - Anomaly detection
 - location detection
-- More accurate back-angle calculations (it never buzzes for matt)
+- More accurate back-angle calculations (it never buzzes for Matt)
 - A more useful coruscant-report
 - replace kinetic-live with plotly
 - a walk detector with less lag
